@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe911e7-d887-4b2e-8c27-82a11cfcdd5d" name="Changes" comment="Listo20">
-      <change afterPath="$PROJECT_DIR$/ejercicio2/src/Inventario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio2/src/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio2/src/ProductoEspecifico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/EmpleadoPermanente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/EmpleadoTemporal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/GestionEmpleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio2/ejercicio2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/ejercicio1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/Inventario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicio2/src/ProductoEspecifico.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/ProductoEspecifico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,16 +36,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Dayron-z"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Dayron-z&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="e181cc4c-0673-4fd4-a3d6-d8cbcb2973bb" />
+        <option name="accountId" value="91600cd5-3284-4ccd-a23a-184d00f12c53" />
         <option name="url" value="https://github.com/Dayron-z/poo.git" />
       </UrlAndAccount>
     </option>
@@ -44,24 +54,42 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2dhfOT5fIqIHrEIrqU8DUAqjEPP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "18",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/DAYRON/Desktop/poo",
-    "onboarding.tips.debug.path": "C:/Users/DAYRON/Desktop/poo/ejercicio2/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/riwip5-035/Desktop/poo&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/riwip5-035/Desktop/poo/ejercicio1/ejercicio2/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ejercicio2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -141,6 +169,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Listo" />
     <MESSAGE value="Listo20" />
     <option name="LAST_COMMIT_MESSAGE" value="Listo20" />
