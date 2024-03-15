@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfe911e7-d887-4b2e-8c27-82a11cfcdd5d" name="Changes" comment="Listo20">
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/ejercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/EmpleadoPermanente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/EmpleadoTemporal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/GestionEmpleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejercicio1/ejercicio2/src/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio2/ejercicio2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/ejercicio1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Inventario.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/Inventario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio2/src/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/Producto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejercicio2/src/ProductoEspecifico.java" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicio1/src/ProductoEspecifico.java" afterDir="false" />
+    <list default="true" id="cfe911e7-d887-4b2e-8c27-82a11cfcdd5d" name="Changes" comment="Fin 1">
+      <change afterPath="$PROJECT_DIR$/out/production/ejercicio2/Empleado.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ejercicio2/EmpleadoPermanente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ejercicio2/EmpleadoTemporal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ejercicio2/GestionEmpleados.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ejercicio2/Persona.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ejercicio2/Inventario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ejercicio2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ejercicio2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ejercicio2/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ejercicio2/ProductoEspecifico.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710467138601</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Listo20">
+      <option name="closed" value="true" />
+      <created>1710507361769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710507361769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fin 1">
+      <option name="closed" value="true" />
+      <created>1710507400652</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710507400652</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +182,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Listo" />
     <MESSAGE value="Listo20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Listo20" />
+    <MESSAGE value="Fin 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fin 1" />
   </component>
 </project>
